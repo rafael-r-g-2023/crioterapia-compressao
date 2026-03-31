@@ -6,10 +6,13 @@ O sistema é composto por módulos independentes que trabalham de forma integrad
 
 ---
 
-## Estrutura geral do produto
-
 ### Estratégia V1
 O V1 será focado em joelho, mas a unidade base poderá ser projetada para permitir testes com aplicadores existentes no mercado de referência, desde que a interface de mangueira e os requisitos de vedação, fluxo e pressão sejam validados experimentalmente.
+
+---
+
+## Estrutura geral do produto
+
 PRODUTO V1
 
 - Alimentação
