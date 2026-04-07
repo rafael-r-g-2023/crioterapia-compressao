@@ -151,6 +151,7 @@ docs/20_roadmap_projeto.md
 
 ## Observações
 
-* Projeto em fase experimental
-* V1 focado em prova de conceito
+- Projeto em fase experimental  
+- V1 focado em prova de conceito funcional  
+- O posicionamento final do produto será definido após validação técnica e análise de mercado  
 
