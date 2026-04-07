@@ -31,31 +31,33 @@ O objetivo é desenvolver um produto funcional, com custo reduzido, voltado inic
 
 ## Estrutura do Projeto
 
-/docs
-├── 01_visao_geral.md
-├── 02_engenharia_reversa.md
-├── 03_arquitetura.md
-├── 04_fluxo_funcionamento.md
-├── 05_componentes.md
-├── 06_arquitetura_eletrica.md
-├── 07_esquema_eletrico.md
-├── 08_lista_componentes.md
-├── 09_requisitos_seguranca.md
-├── 10_base_cientifica.md
-├── 11_aplicadores.md
-├── 12_interface_mangueiras.md
-├── 13_engenharia_reversa_experimental.md
-├── 14_validacao_interface_prototipo.md
-├── 15_analise_custo.md
-├── 16_analise_mercado.md
-├── 17_arquitetura_comparada.md
-├── 18_comparacao_preco_vs_funcionalidade.md
-├── 19_analise_mercado_brasil.md
-└── 20_roadmap_projeto.md
+### 📁 docs
+- 01_visao_geral.md  
+- 02_engenharia_reversa.md  
+- 03_arquitetura.md  
+- 04_fluxo_funcionamento.md  
+- 05_componentes.md  
+- 06_arquitetura_eletrica.md  
+- 07_esquema_eletrico.md  
+- 08_lista_componentes.md  
+- 09_requisitos_seguranca.md  
+- 10_base_cientifica.md  
+- 11_aplicadores.md  
+- 12_interface_mangueiras.md  
+- 13_engenharia_reversa_experimental.md  
+- 14_validacao_interface_prototipo.md  
+- 15_analise_custo.md  
+- 16_analise_mercado.md  
+- 17_arquitetura_comparada.md  
+- 18_comparacao_preco_vs_funcionalidade.md  
+- 19_analise_mercado_brasil.md  
+- 20_roadmap_projeto.md  
 
-/planilhas
-├── planilha_testes_crioterapia_v1.xlsx
-└── README.md
+---
+
+### 📁 planilhas
+- planilha_testes_crioterapia_v1.xlsx  
+- README.md  
 
 ---
 
