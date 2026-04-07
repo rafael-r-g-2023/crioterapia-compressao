@@ -8,11 +8,23 @@ Analisar o posicionamento de mercado de sistemas de crioterapia com compressão,
 
 ## Produtos analisados
 
-### 1. Game Ready GRPro 2.1 Control Unit
+| Produto | Fabricante | País de origem |
+|--------|------------|---------------|
+| Game Ready GRPro 2.1 Control Unit | Game Ready / Avanos | Estados Unidos |
+| Breg VPULSE | Breg Inc. | Estados Unidos |
+| CryoPush Recovery System | CryoPush | China (fabricado) / marca internacional |
 
-### 2. Breg VPULSE
+---
 
-### 3. CryoPush Recovery System
+## Observação sobre fabricação
+
+Embora alguns produtos sejam projetados por empresas dos Estados Unidos, parte da fabricação pode ocorrer na Ásia (principalmente China), especialmente em produtos voltados ao mercado esportivo.
+
+Isso impacta diretamente:
+
+- custo de produção
+- preço final
+- posicionamento de mercado
 
 ---
 
